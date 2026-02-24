@@ -4,7 +4,7 @@
 
 A MATLAB App Designer tool for **intuitive visualization of analog filter prototypes**. It helps engineers and students quickly evaluate filter frequency responses, assess compliance with design specifications, and select the most suitable filter prototype (Butterworth, Chebyshev, Bessel, Elliptic, etc.) for low-pass and high-pass designs.
 
-![App Screenshot Placeholder](Doc\screenShot_elliptic_5th.jpg)  
+![App Screenshot Placeholder](./Doc/screenShot_elliptic_5th.jpg)  
 *Example: Main interface showing magnitude response and pole-zero plot.*
 
 ---
