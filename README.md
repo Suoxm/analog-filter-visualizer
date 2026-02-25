@@ -90,7 +90,7 @@ You can overlay multiple prototypes or export figures for reports.
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL License – see the [LICENSE](LICENSE) file for details.
 
 ---
 
